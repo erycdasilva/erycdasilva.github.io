@@ -1,9 +1,11 @@
 h1 {
-  font-family: Arial;
+  font-family: Arial, Helvetica;
+  font-size: 26px;
   color: #333;
 }
 
 p {
-  font-family: comic sans;
+  font-family: Verdana;
+  font-size: 18px;
   color: #909090;
 }
