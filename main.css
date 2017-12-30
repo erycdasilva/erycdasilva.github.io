@@ -1,11 +1,15 @@
+body {
+  background: black;
+}
+
 h1 {
   font-family: Arial, Helvetica;
   font-size: 26px;
-  color: #333;
+  color: white;
 }
 
 p {
   font-family: Verdana;
   font-size: 18px;
-  color: #909090;
+  color: #fafafa;
 }
